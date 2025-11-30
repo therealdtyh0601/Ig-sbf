@@ -1,0 +1,693 @@
+{
+  "info": {
+    "title": "IG-SBF Generational Spirituality Survey",
+    "description": "This survey explores how different generations understand and practise spirituality in today’s digital world. Your responses are anonymous, voluntary, and used only for research. Approx. time: 8–12 minutes."
+  },
+  "items": [
+    {
+      "title": "I confirm I have read the study information and agree to participate.",
+      "questionItem": {
+        "question": {
+          "required": true,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Yes, I agree"},
+              {"value": "No"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "What is your age?",
+      "questionItem": {
+        "question": {
+          "required": true,
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "I understand that I can stop at any time and that my answers are anonymous.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Yes, I understand"},
+              {"value": "No"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "I confirm I have permission from my parent/guardian to participate.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Yes"},
+              {"value": "No"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Gender",
+      "questionItem": {
+        "question": {
+          "required": true,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Male"},
+              {"value": "Female"},
+              {"value": "Non-binary"},
+              {"value": "Prefer to self-describe"},
+              {"value": "Prefer not to say"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Nationality",
+      "questionItem": {
+        "question": {
+          "required": true,
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Country of residence",
+      "questionItem": {
+        "question": {
+          "required": true,
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Ethnicity",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Chinese"},
+              {"value": "Malay"},
+              {"value": "Indian"},
+              {"value": "Indigenous"},
+              {"value": "Mixed"},
+              {"value": "Other"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Primary language used at home",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "English"},
+              {"value": "Mandarin"},
+              {"value": "Malay"},
+              {"value": "Tamil"},
+              {"value": "Dialect"},
+              {"value": "Other"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Highest education level completed",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Primary"},
+              {"value": "Secondary"},
+              {"value": "Pre-University / Diploma"},
+              {"value": "Bachelor's"},
+              {"value": "Master's"},
+              {"value": "Doctorate"},
+              {"value": "Other"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Occupation / Role",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Student (Primary/Secondary)"},
+              {"value": "Student (Tertiary)"},
+              {"value": "Working professional"},
+              {"value": "Freelancer"},
+              {"value": "Homemaker"},
+              {"value": "Unemployed / Between jobs"},
+              {"value": "Other"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Household religious environment (growing up)",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "choiceQuestion": {
+            "type": "CHECKBOX",
+            "options": [
+              {"value": "Strictly religious"},
+              {"value": "Moderately religious"},
+              {"value": "Culturally religious"},
+              {"value": "Mixed religions"},
+              {"value": "Not religious"},
+              {"value": "Spiritual but not religious"},
+              {"value": "Other"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Religion raised in",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Buddhism"},
+              {"value": "Taoism"},
+              {"value": "Christianity"},
+              {"value": "Catholicism"},
+              {"value": "Islam"},
+              {"value": "Hinduism"},
+              {"value": "Sikhism"},
+              {"value": "Free-thinker"},
+              {"value": "Mixed"},
+              {"value": "Other"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Current spiritual identification",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Same as childhood"},
+              {"value": "Different religion"},
+              {"value": "Spiritual but not religious"},
+              {"value": "Non-religious"},
+              {"value": "Syncretic / Mix"},
+              {"value": "Unsure"},
+              {"value": "Prefer not to say"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Frequency of spiritual practice",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Daily"},
+              {"value": "Weekly"},
+              {"value": "Monthly"},
+              {"value": "Occasionally"},
+              {"value": "Rarely"},
+              {"value": "Never"}
+            ]
+          }
+        }
+      }
+    },
+
+    /* IG-SBF DIMENSION ITEMS */
+    {
+      "title": "I prefer to choose spiritual practices based on what personally resonates with me.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+    {
+      "title": "I do not feel comfortable when spiritual rules are imposed on me.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+    {
+      "title": "I define my own spiritual meaning rather than follow what others tell me.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I trust traditional religious or spiritual authorities.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I prefer learning from peers or online creators over formal leaders.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I feel uneasy in environments that expect obedience to a leader or guru.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "Spirituality helps me cope with emotional or stressful periods.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I turn to spiritual practices when I feel lost or overwhelmed.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "Emotional resonance matters to me when choosing spiritual content.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I prefer small spiritual communities over large institutions.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I feel more connected in casual or flexible communities.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I participate more in digital communities than physical ones.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 5,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I learn most of my spiritual or personal-growth content online.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "Algorithms influence my spiritual discovery.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I follow spiritual or growth creators whom I feel connected to.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I often combine practices from different traditions.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I believe different spiritual paths can be true at the same time.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I prefer a flexible approach over strict adherence to a single tradition.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "Visuals and symbols strongly influence my spiritual interest.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I connect with stories, symbols, or mythic characters.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "Atmosphere or sensory experience matters more to me than doctrine.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I feel my spiritual views differ from my parents’ generation.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I often feel misunderstood by older generations about my beliefs.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion": {
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I feel more spiritually aligned with younger or older generations.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "More aligned with older generations"},
+              {"value": "More aligned with my generation"},
+              {"value": "More aligned with younger generations"},
+              {"value": "Mixed"},
+              {"value": "Not sure"}
+            ]
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I consume spiritual content mainly through social media.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion":{
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "I engage more with online practices than physical rituals.",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "scaleQuestion":{
+            "low": 1,
+            "high": 5,
+            "lowLabel": "Strongly disagree",
+            "highLabel": "Strongly agree"
+          }
+        }
+      }
+    },
+
+    {
+      "title": "In your own words, what does spirituality mean to you today?",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+
+    {
+      "title": "How has digital content influenced your spiritual views or practices?",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+
+    {
+      "title": "Would you like to receive updates about the study? (Optional)",
+      "questionItem": {
+        "question": {
+          "required": false,
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    }
+  ]
+}
